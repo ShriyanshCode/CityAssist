@@ -23,12 +23,12 @@ City Assist combines vector search with MongoDB, OCR verification with PaddleOCR
 ## Pre-Requisites:
 An account on MongoDB, with network access as 0.0.0.0/0 (access anywhere) or any specific IP address.
 and preferably a database access with a new user and password to your cluster (for Mongo URI).
-1. Connect to mongodb using:
+1. Connect to mongodb cluster using, this is MONGO_URI:
   mongodb+srv://<user_id>:<user_password>@cluster0.ozbxk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-2. Gemini API Key:
+2. Gemini API Key this is GOOGLE_API_KEY:
    Access it here: https://aistudio.google.com/app/apikey
 3. Chromium driver
-   
+4. Edit MONGO_URI and GOOGLE_API_KEY 
 ## Running the Code
 1. Load dataset in your own Mongo Database Cluster:
 ```bash
