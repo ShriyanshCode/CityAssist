@@ -30,7 +30,11 @@ and preferably a database access with a new user and password to your cluster (f
 3. Chromium driver
 4. Edit MONGO_URI and GOOGLE_API_KEY 
 ## Running the Code
-1. Load dataset in your own Mongo Database Cluster:
+1. Necessary packages:
+```bash
+pip install -r requirements.txt
+``` 
+2. Load dataset in your own Mongo Database Cluster:
 ```bash
 py load.py
 ```
