@@ -27,8 +27,8 @@ and preferably a database access with a new user and password to your cluster (f
   mongodb+srv://<user_id>:<user_password>@cluster0.ozbxk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 2. Gemini API Key:
    Access it here: https://aistudio.google.com/app/apikey
-
-
+3. Chromium driver
+   
 ## Running the Code
 1. Load dataset in your own Mongo Database Cluster:
 ```bash
