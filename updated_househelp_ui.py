@@ -32,7 +32,7 @@ def add_to_json(data):
 
     househelps.append(data)
 
-    with open('data/data2.json', 'w') as f:
+    with open('data/data.json', 'w') as f:
         json.dump(househelps, f, indent=4)
 
 # Streamlit app 
