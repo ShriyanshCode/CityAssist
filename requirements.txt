@@ -1,0 +1,11 @@
+flask
+paddleocr
+paddlepaddle
+streamlit
+pymongo
+langchain_google_genai
+langchain-community
+langchain
+selenium
+requests
+setuptools
