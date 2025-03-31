@@ -1,6 +1,11 @@
 # City Assist: Streamlined Platform for Household Help
 
 City Assist is a web application designed to simplify the search for reliable household help by delivering the top 10 relevant matches based on user needs. The platform focuses on efficiency, verification, and user experience, using advanced techniques to ensure accurate and secure results.
+
+## FlowChart
+(via https://gitdiagram.com/ShriyanshCode/CityAssist)
+![diagram](https://github.com/user-attachments/assets/bfe77030-9786-4244-8dc9-17dd9bc35e3c)
+
 ## Current Working:
 #### Top 5 similar search results  of the query “drivers in delhi”.
 ![image](https://github.com/user-attachments/assets/351e72cd-162c-4463-9e56-7668b2b436d3)
